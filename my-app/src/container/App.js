@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
-import logo from './logo.svg';
+import logo from '../logo.svg';
 import './App.css';
 import Radium, {StyleRoot} from 'radium'
-import Person from './Person/Person'
+import Person from '../components/Persons/Person/Person'
 
 
 // New Version Of React
